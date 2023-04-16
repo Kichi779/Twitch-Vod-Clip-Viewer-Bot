@@ -44,7 +44,7 @@ def start():
 
 
 
-    chrome_path = 'D:\Program Files\Google\Chrome\Application\chrome.exe'
+    chrome_path = 'C:\Program Files\Google\Chrome\Application\chrome.exe'
     driver_path = 'chromedriver.exe'
 
     vodclip = input(Colorate.Vertical(Colors.green_to_blue, Center.XCenter ("Enter vod or clip: ")))
