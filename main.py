@@ -35,7 +35,7 @@ def start():
                 ███   ▀█▀ █▀    ████████▀    ███    █▀    █▀   
                 ▀                                             
     Edit the code, but please don't remove my name. do not make the sale.
-                    Discord discord.gg/UkSJP8RUxcT       
+                    Discord discord.gg/fesaScZqpn       
                     Github  https://github.com/kichi779   
                     Shop  kichi779shop.mysellix.io     
                        
