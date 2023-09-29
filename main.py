@@ -34,10 +34,9 @@ def start():
                 ███ ▀███▄ ███   ███    ███   ███    ███   ███  
                 ███   ▀█▀ █▀    ████████▀    ███    █▀    █▀   
                 ▀                                             
-    Edit the code, but please don't remove my name. do not make the sale.
-                    Discord discord.gg/fesaScZqpn       
+    Edit the code, but please don't remove my name. do not make the sale.    
                     Github  https://github.com/kichi779   
-                    Shop  kichi779shop.mysellix.io     
+                       
                        
                       
                       """)))
