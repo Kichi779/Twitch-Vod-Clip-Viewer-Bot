@@ -54,12 +54,6 @@ pip install -r requirements.txt (Or you can click on install.bat file)
 - Viewers appear in the channel list / 60 Star ⭐⭐ ❌
 - You can send viewers over the internet with just one click without downloading / 100 Star ⭐⭐⭐ ❌
 
-# [🛒 Shop](https://kichi779shop.mysellix.io/en-en/)
-  ㅤㅤ  ㅤ
-ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤWebsite: https://kichi779shop.sellix.io
-
- [![Shop](https://user-images.githubusercontent.com/92625816/230799946-2af1a68f-ebcf-4379-9d00-0921e9c799bb.png)](https://github.com/Kichi779/Kichi779-SMM-Shop)
-
 
 # ⚠️Legal⚠️
 
